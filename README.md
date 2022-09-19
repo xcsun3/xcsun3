@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, this is Xiaochen.
+
+I am currently a Master of Statistical Practice Student at Carnegie Mellon University. 
+
+I am familiar with python, tensorflow package, r, Java and unix shell. 
+
+I am looking to collaborate if you need help with data analytics or deep learning (CNN & RNN).
+
+How to reach me:
+lyndonsun798@yahoo.com
 
 <!--
 **xcsun3/xcsun3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
